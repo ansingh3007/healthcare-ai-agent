@@ -1,0 +1,11 @@
+question,expected_answer,category
+What are the first-line medications for Type 2 diabetes?,Metformin is the first-line medication for Type 2 diabetes unless contraindicated.,diabetes
+What is the normal blood pressure range for adults?,"Normal blood pressure is less than 120/80 mmHg. Hypertension is diagnosed at 130/80 mmHg or higher.",cardiovascular
+What are the symptoms of a heart attack?,"Common symptoms include chest pain or discomfort, shortness of breath, pain radiating to arm/jaw/back, nausea, and cold sweats.",cardiovascular
+What is the recommended screening age for colorectal cancer?,The USPSTF recommends colorectal cancer screening starting at age 45 for average-risk adults.,oncology
+What are signs of diabetic ketoacidosis?,"Signs include high blood glucose, ketones in urine, vomiting, abdominal pain, rapid breathing, and altered consciousness.",diabetes
+What is the treatment for anaphylaxis?,Epinephrine (adrenaline) 0.3-0.5mg IM is the first-line treatment. Call emergency services immediately.,emergency
+What vaccines are recommended for adults over 65?,"Influenza annually, pneumococcal (PCV15 or PCV20), shingles (Shingrix), COVID-19 updated booster, and Tdap if not received.",immunisation
+What are the symptoms of hypothyroidism?,"Fatigue, weight gain, cold intolerance, constipation, dry skin, slow heart rate, and depression.",endocrinology
+When should a patient be referred for cardiac stress testing?,"Patients with chest pain, high cardiovascular risk, or known CAD requiring functional assessment should be referred.",cardiovascular
+What is the dose of aspirin for acute MI?,325mg aspirin should be given immediately (chewed) for acute myocardial infarction unless contraindicated.,cardiovascular
